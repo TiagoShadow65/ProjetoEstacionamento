@@ -2,7 +2,7 @@
 /*
 - permita definir o número de linha e colunas da grelha de lugares do parque;
 */
-void(int linha, int coluna){
+void escolher_tamanho_estacionamento(int linha, int coluna){
 	int lugares_Estacionamento[linha][coluna];
 }
 
@@ -22,5 +22,5 @@ definida pelo parque (ex: 2.50€/hora);
 *O – ocupado 
 */
 main(){
-	hdausdhao
+	escolher_tamanho_estacionamento(2,2);
 }
